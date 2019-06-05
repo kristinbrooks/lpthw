@@ -9,7 +9,7 @@ print(f"Do you like me {user_name}?")
 likes = input(prompt)
 
 print(f"Where do you live {user_name}?")
-lives = input(prompt)
+lives = imput(prompt)
 
 print("What kind of computer do you have?")
 computer = input(prompt)

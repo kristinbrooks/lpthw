@@ -21,5 +21,5 @@ end12 = "r"
 
 # display the words made by adding all the new variables together
 # the end=' ' makes a space between the words instead of a line break
-print(end1 + end2 + end3 + end4 + end5 + end6, end=' ')
-print(end7 + end8 + end9 + end10 + end11 + end12)
+print(end1 end2 + end3 + end4 + end5 + end6, end=' ')
+print(end7 + end8 + end9 + end10 - end11 + end12)

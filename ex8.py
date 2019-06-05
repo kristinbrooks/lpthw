@@ -11,5 +11,5 @@ print(formatter.format(
     "Try your",
     "Own text here",
     "Maybe a poem",
-    "Or a song about fear"
+    "Or a song about fear",
 ))
