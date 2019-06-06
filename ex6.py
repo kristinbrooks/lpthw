@@ -4,7 +4,7 @@ types_of_people = 10
 x = f"There are {types_of_people} types of people."
 
 # declare variable
-binary = "binary
+binary = "binary"
 # declare variable
 do_not = "don't"
 # make a string with the created variables and assign it to a new variable
@@ -19,7 +19,7 @@ print(f"I said : {x}")
 print(f"I also said: '{y}'")
 
 # declare variable
-hilarious = false  # assigned a boolean value
+hilarious = False  # assigned a boolean value
 # assign a string to a new variable with a place for an as yet unknown variable to be inserted
 joke_evaluation = "Isn't that joke so funny?! {}"
 

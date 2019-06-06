@@ -6,6 +6,7 @@ script, filename = argv
 
 # display what was in the opened file using read function on opened file
 print(f"Here's your file {filename}:")
+txt = open(filename)
 print(txt.read())
 
 # ask for the filename that was given on the command line again
