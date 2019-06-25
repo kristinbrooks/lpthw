@@ -10,3 +10,5 @@ txt = open(filename)
 # display what was in the opened file using read function on opened file
 print(f"Here's your file {filename}:")
 print(txt.read())
+
+txt.close()

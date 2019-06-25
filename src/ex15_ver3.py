@@ -7,3 +7,5 @@ txt = open(filename)
 
 # use the read function to display the txt in the opened file
 print(txt.read())
+
+txt.close()
